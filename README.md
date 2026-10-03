@@ -27,9 +27,9 @@ The deployable website is generated in `dist/`. Only `public/` contents are publ
 
 ## Publish and give it to your friend
 
-Follow [GITHUB-PUBLISHING.md](GITHUB-PUBLISHING.md). The included GitHub Actions workflow fetches headlines and publishes GitHub Pages on main-branch pushes, manual runs and every six hours. It does not need a paid news API or an API key.
+The live gift website is [The World Desk](https://besttom23-beep.github.io/Worlddesk/), with source at [besttom23-beep/Worlddesk](https://github.com/besttom23-beep/Worlddesk). The first [build and deployment](https://github.com/besttom23-beep/Worlddesk/actions/runs/37123218195) succeeded on 3 October 2026; all five feeds refreshed and all eleven tests passed.
 
-GitHub authentication and a repository destination are required before a real public URL can be created. Local builds and a prepared workflow are not proof of a deployed website.
+Follow [GITHUB-PUBLISHING.md](GITHUB-PUBLISHING.md) for future releases. The GitHub Actions workflow fetches headlines and publishes on main-branch pushes, manual runs and every six hours. It does not need a paid news API or an API key. Scheduled runs can be delayed by GitHub; the first timed run has not yet been observed.
 
 ## Maintain it
 

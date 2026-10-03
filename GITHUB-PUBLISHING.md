@@ -1,6 +1,14 @@
 # Publish The World Desk on GitHub Pages
 
-The code and update workflow are ready. This folder has not been published merely by building it locally.
+## Current deployment
+
+- Live website: https://besttom23-beep.github.io/Worlddesk/
+- Public source repository: https://github.com/besttom23-beep/Worlddesk
+- Pages source: GitHub Actions, branch `main`.
+- First successful build and deployment: https://github.com/besttom23-beep/Worlddesk/actions/runs/37123218195 (3 October 2026).
+- The workflow's push-triggered refresh fetched all five sources and passed all eleven tests. The six-hour schedule is configured on the default branch; a scheduled run has not yet been observed.
+
+For this gift, use the existing `Worlddesk` repository rather than creating another one. The setup instructions below are also useful for deploying a separate copy.
 
 ## Assisted publishing
 

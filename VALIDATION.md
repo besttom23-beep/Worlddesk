@@ -12,11 +12,18 @@
 - The maintenance skill passed the bundled skill validator.
 - France 24's initial guessed channel handle returned 404; it was replaced with the channel ID linked from France 24's official site, which returned 200. AP's site presented a browser challenge, so the card now links to its confirmed public YouTube channel.
 
-## Limits and remaining publication step
+## Publication verified
+
+- The public [Worlddesk repository](https://github.com/besttom23-beep/Worlddesk) contains the prepared source and maintenance skill.
+- [GitHub Actions run 37123218195](https://github.com/besttom23-beep/Worlddesk/actions/runs/37123218195) successfully built and deployed GitHub Pages on 3 October 2026. All five feed requests succeeded, producing 47 headlines; all eleven tests passed in Linux CI.
+- The live site at https://besttom23-beep.github.io/Worlddesk/ loaded its resource catalog and published news JSON, displaying the edition updated at 12:32 UTC (20:32 Shanghai).
+- GitHub emitted non-blocking warnings for Pages actions originally targeting Node 20 but running on Node 24. The deployment still completed successfully.
+
+## Limits
 
 - URL status and YouTube oEmbed metadata were checked. They establish the resource exists, but do not prove uninterrupted playback or free access in every region. Embedded video playback was not confirmed in the automated browser; original YouTube links and episode/transcript alternatives are provided.
 - GZERO's site and Chatham House sometimes timed out from this machine. GZERO now uses its confirmed YouTube channel and a verified official interview video. Chatham House's current issue was verified through its public web page, but local network access remains unconfirmed. `SOURCE-CHECKS.json` preserves the actual URL test results, including failures.
-- Public GitHub Pages deployment and scheduled execution are not yet verified. They require the owner's GitHub connection and repository destination. The included workflow has been prepared from GitHub's official Pages guidance.
+- The six-hour schedule is configured on the default branch. Its first timed execution has not yet occurred during verification; GitHub can delay scheduled runs or disable them after prolonged repository inactivity.
 
 ## Research references
 
