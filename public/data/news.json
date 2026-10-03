@@ -1,0 +1,673 @@
+{
+  "generatedAt": "2026-10-03T12:16:15.001Z",
+  "lastAttemptAt": "2026-10-03T12:16:15.001Z",
+  "sources": [
+    {
+      "id": "reuters-video",
+      "name": "Reuters",
+      "url": "https://www.youtube.com/@Reuters",
+      "ok": true,
+      "count": 4,
+      "lastSuccessfulAt": "2026-10-03T12:16:15.001Z",
+      "error": null
+    },
+    {
+      "id": "bloomberg-video",
+      "name": "Bloomberg Television",
+      "url": "https://www.youtube.com/@markets",
+      "ok": true,
+      "count": 15,
+      "lastSuccessfulAt": "2026-10-03T12:16:15.001Z",
+      "error": null
+    },
+    {
+      "id": "xinhua-world",
+      "name": "Xinhua",
+      "url": "https://english.news.cn/",
+      "ok": true,
+      "count": 14,
+      "lastSuccessfulAt": "2026-10-03T12:16:15.001Z",
+      "error": null
+    },
+    {
+      "id": "france24",
+      "name": "France 24",
+      "url": "https://www.france24.com/en/",
+      "ok": true,
+      "count": 9,
+      "lastSuccessfulAt": "2026-10-03T12:16:15.001Z",
+      "error": null
+    },
+    {
+      "id": "aljazeera",
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/",
+      "ok": true,
+      "count": 9,
+      "lastSuccessfulAt": "2026-10-03T12:16:15.001Z",
+      "error": null
+    }
+  ],
+  "items": [
+    {
+      "id": "9b1ad4083c3de603",
+      "title": "Can AI Outrun America’s Deficit Problem?",
+      "url": "https://www.youtube.com/watch?v=JjaZr2J0ov8",
+      "source": "Bloomberg Television",
+      "sourceId": "bloomberg-video",
+      "type": "video",
+      "publishedAt": "2026-10-03T12:00:38.000Z",
+      "publishedDate": null,
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "859010d52e054569",
+      "title": "Ethiopia’s government forces retake airport from Tigray rebels in Mekelle",
+      "url": "https://www.aljazeera.com/news/2026/10/3/rebels-pulling-back-as-addis-ababas-forces-advance-reports-say?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "type": "article",
+      "publishedAt": "2026-10-03T11:16:43.000Z",
+      "publishedDate": null,
+      "topics": [
+        "conflict",
+        "politics"
+      ]
+    },
+    {
+      "id": "f90a4b664bd1beff",
+      "title": "How AI is helping Mexico detect breast cancer earlier",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/10-3-mexico-ai-breast-cancer-julia-pkg?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "type": "article",
+      "publishedAt": "2026-10-03T10:55:32.000Z",
+      "publishedDate": null,
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "0345311a0556ca96",
+      "title": "Pressure Builds on Iran | Bloomberg This Weekend: Oct. 3rd, 2026",
+      "url": "https://www.youtube.com/watch?v=3zARNR8Fv9E",
+      "source": "Bloomberg Television",
+      "sourceId": "bloomberg-video",
+      "type": "video",
+      "publishedAt": "2026-10-03T10:47:16.000Z",
+      "publishedDate": null,
+      "topics": [
+        "business"
+      ]
+    },
+    {
+      "id": "d9ab107f9f2cb89b",
+      "title": "A Yemeni family spends a week on the road fleeing another Houthi offensive",
+      "url": "https://www.aljazeera.com/features/2026/10/3/a-yemeni-family-spend-a-week-on-the-road-fleeing-another-houthi-offensive?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "type": "article",
+      "publishedAt": "2026-10-03T10:48:28.000Z",
+      "publishedDate": null,
+      "topics": [
+        "conflict"
+      ]
+    },
+    {
+      "id": "64ba5f100ae1c430",
+      "title": "G7 to release 100 million barrels of oil and diesel, will it curb prices?",
+      "url": "https://www.aljazeera.com/news/2026/10/3/g7-to-release-100-million-barrels-of-oil-and-diesel-will-it-curb-prices?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "type": "article",
+      "publishedAt": "2026-10-03T09:27:38.000Z",
+      "publishedDate": null,
+      "topics": [
+        "business"
+      ]
+    },
+    {
+      "id": "a3cb00a5f7af6286",
+      "title": "Ethiopia's Tigray rebels abandon regional capital Mekelle as pro-government forces advance",
+      "url": "https://www.france24.com/en/africa/20261003-ethiopia-s-tigray-rebels-abandon-regional-capital-of-mekelle-as-pro-government-forces-advance",
+      "source": "France 24",
+      "sourceId": "france24",
+      "type": "article",
+      "publishedAt": "2026-10-03T07:58:45.000Z",
+      "publishedDate": null,
+      "topics": [
+        "conflict",
+        "politics"
+      ]
+    },
+    {
+      "id": "e657d6ed2f7a2fc7",
+      "title": "Yemen’s army claims over 1,500 Houthi casualties in past 24 hours",
+      "url": "https://www.aljazeera.com/news/2026/10/3/over-1500-houthi-casualties-in-past-24-hours-yemeni-army-says?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "type": "article",
+      "publishedAt": "2026-10-03T08:36:17.000Z",
+      "publishedDate": null,
+      "topics": [
+        "conflict"
+      ]
+    },
+    {
+      "id": "0991d8d71cdcab2b",
+      "title": "Bosnian Serb leader says Bosnia is ‘dead’ ahead of election",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/bosnian-serb-leader-says-bosnia-is-dead-ahead-of-election?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "type": "article",
+      "publishedAt": "2026-10-03T07:57:53.000Z",
+      "publishedDate": null,
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "d42f7d08990d4014",
+      "title": "🔴 UAE investigators say Flydubai co-pilot was planning 'terrorist act'",
+      "url": "https://www.france24.com/en/middle-east/20261003-co-pilot-on-flydubai-flight-was-banned-from-flying-by-oman-for-holding-extremist-views",
+      "source": "France 24",
+      "sourceId": "france24",
+      "type": "article",
+      "publishedAt": "2026-10-03T07:14:58.000Z",
+      "publishedDate": null,
+      "topics": [
+        "conflict",
+        "business"
+      ]
+    },
+    {
+      "id": "310bd118c3c4bacd",
+      "title": "Israeli air attack on residential apartment in Gaza kills 5 Palestinians",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/israeli-air-attack-on-residential-apartment-in-gaza-kills-5-palestinians?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "type": "article",
+      "publishedAt": "2026-10-03T07:57:47.000Z",
+      "publishedDate": null,
+      "topics": [
+        "conflict"
+      ]
+    },
+    {
+      "id": "81054c51d2eee0ed",
+      "title": "Flydubai co-pilot attacked captain with crash axe in ‘terrorist act’: UAE",
+      "url": "https://www.aljazeera.com/news/2026/10/3/flydubai-co-pilot-stabbed-pilot-with-crash-axe-in-terrorist-attack-uae?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "type": "article",
+      "publishedAt": "2026-10-03T06:16:47.000Z",
+      "publishedDate": null,
+      "topics": [
+        "conflict"
+      ]
+    },
+    {
+      "id": "31f42c33e2e7d7de",
+      "title": "North Korea launches ballistic missile as tensions with Seoul grow over border mine blasts",
+      "url": "https://www.france24.com/en/asia-pacific/20261003-north-korea-fires-ballistic-missile-after-seoul-s-apology-demand",
+      "source": "France 24",
+      "sourceId": "france24",
+      "type": "article",
+      "publishedAt": "2026-10-03T02:40:43.000Z",
+      "publishedDate": null,
+      "topics": [
+        "conflict"
+      ]
+    },
+    {
+      "id": "3bde7adad9bf7170",
+      "title": "Gaza voters want jobs and security as Palestinian elections approach",
+      "url": "https://www.aljazeera.com/news/2026/10/3/gaza-voters-want-jobs-and-security-as-palestinian-elections-approach?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "type": "article",
+      "publishedAt": "2026-10-03T05:39:29.000Z",
+      "publishedDate": null,
+      "topics": [
+        "conflict",
+        "politics"
+      ]
+    },
+    {
+      "id": "0ebb958ff4b4fc02",
+      "title": "Letitia James takes over Cornell rape investigation. What happens now?",
+      "url": "https://www.youtube.com/watch?v=aLGXp8pISDg",
+      "source": "Reuters",
+      "sourceId": "reuters-video",
+      "type": "video",
+      "publishedAt": "2026-10-03T00:04:47.000Z",
+      "publishedDate": null,
+      "topics": [
+        "business"
+      ]
+    },
+    {
+      "id": "f3930c3d53d5ad38",
+      "title": "Trump says US will not be doing diesel export ban",
+      "url": "https://www.youtube.com/watch?v=trQcCGzEQTU",
+      "source": "Reuters",
+      "sourceId": "reuters-video",
+      "type": "video",
+      "publishedAt": "2026-10-03T00:00:41.000Z",
+      "publishedDate": null,
+      "topics": [
+        "politics",
+        "business"
+      ]
+    },
+    {
+      "id": "010cf5e60012ef54",
+      "title": "ADEX 2026 defense exhibition concludes in Baku with record company participation",
+      "url": "https://english.news.cn/20261003/d0c8d5a6595646e289a63d7e4dd29798/c.html",
+      "source": "Xinhua",
+      "sourceId": "xinhua-world",
+      "type": "article",
+      "publishedAt": null,
+      "publishedDate": "2026-10-03",
+      "topics": [
+        "conflict",
+        "business"
+      ]
+    },
+    {
+      "id": "38041fe23cb4e932",
+      "title": "Trump to name Jay Clayton as AI czar: media",
+      "url": "https://english.news.cn/20261003/e93865020f38413da13fed97116caed9/c.html",
+      "source": "Xinhua",
+      "sourceId": "xinhua-world",
+      "type": "article",
+      "publishedAt": null,
+      "publishedDate": "2026-10-03",
+      "topics": [
+        "ai",
+        "politics"
+      ]
+    },
+    {
+      "id": "e560678708b7338f",
+      "title": "Stocks Rise As Jobs Report Eases Fed-Hike Worries",
+      "url": "https://www.youtube.com/watch?v=oXzUHoz3vI4",
+      "source": "Bloomberg Television",
+      "sourceId": "bloomberg-video",
+      "type": "video",
+      "publishedAt": "2026-10-02T23:40:32.000Z",
+      "publishedDate": null,
+      "topics": [
+        "business"
+      ]
+    },
+    {
+      "id": "7cb860bdcb793f58",
+      "title": "DPRK test-fires intermediate-range missile",
+      "url": "https://english.news.cn/asiapacific/20261003/c69340dc8d20448cb5b1f8c7945beedc/c.html",
+      "source": "Xinhua",
+      "sourceId": "xinhua-world",
+      "type": "article",
+      "publishedAt": null,
+      "publishedDate": "2026-10-03",
+      "topics": [
+        "conflict"
+      ]
+    },
+    {
+      "id": "3fcca161b014335a",
+      "title": "Dutch inflation rises to 3.4 pct in September amid higher energy prices",
+      "url": "https://english.news.cn/europe/20261003/b13e9fb101d0414bb6ba0a33910a2b17/c.html",
+      "source": "Xinhua",
+      "sourceId": "xinhua-world",
+      "type": "article",
+      "publishedAt": null,
+      "publishedDate": "2026-10-03",
+      "topics": [
+        "business"
+      ]
+    },
+    {
+      "id": "e2337badfdf26fdc",
+      "title": "Trump: Won’t Do Diesel Export Ban",
+      "url": "https://www.youtube.com/watch?v=oy_5Tez9fY8",
+      "source": "Bloomberg Television",
+      "sourceId": "bloomberg-video",
+      "type": "video",
+      "publishedAt": "2026-10-02T23:19:44.000Z",
+      "publishedDate": null,
+      "topics": [
+        "politics",
+        "business"
+      ]
+    },
+    {
+      "id": "2577a9a74938354c",
+      "title": "Egypt's Alamein Africa Forum advances Agenda 2063 vision: minister",
+      "url": "https://english.news.cn/africa/20261003/f9908d4007644dfd85a909998b44e89c/c.html",
+      "source": "Xinhua",
+      "sourceId": "xinhua-world",
+      "type": "article",
+      "publishedAt": null,
+      "publishedDate": "2026-10-03",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "1c85ac6967ff5ff7",
+      "title": "Airstrikes hit Yemen's Houthi-held capital Sanaa: sources",
+      "url": "https://english.news.cn/20261003/d8b67c729bdc4ac38b007c0c97da187c/c.html",
+      "source": "Xinhua",
+      "sourceId": "xinhua-world",
+      "type": "article",
+      "publishedAt": null,
+      "publishedDate": "2026-10-03",
+      "topics": [
+        "conflict"
+      ]
+    },
+    {
+      "id": "89d517462ea61350",
+      "title": "Wall Street Week | Your Brain on AI, Rare Earth Race, College Enrollment Cliff",
+      "url": "https://www.youtube.com/watch?v=U6WVBRoI318",
+      "source": "Bloomberg Television",
+      "sourceId": "bloomberg-video",
+      "type": "video",
+      "publishedAt": "2026-10-02T23:00:14.000Z",
+      "publishedDate": null,
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "be03240c80738075",
+      "title": "Urgent: Airstrikes rock Yemen's Houthi-held capital Sanaa -- media",
+      "url": "https://english.news.cn/20261003/c8f9c30c264944cfb021d2451ee4d3ee/c.html",
+      "source": "Xinhua",
+      "sourceId": "xinhua-world",
+      "type": "article",
+      "publishedAt": null,
+      "publishedDate": "2026-10-03",
+      "topics": [
+        "conflict"
+      ]
+    },
+    {
+      "id": "f63af25034142b0a",
+      "title": "Latvia holds parliamentary election amid multi-party contest",
+      "url": "https://english.news.cn/20261003/938c7897484941e3937f92ba0ab60fb3/c.html",
+      "source": "Xinhua",
+      "sourceId": "xinhua-world",
+      "type": "article",
+      "publishedAt": null,
+      "publishedDate": "2026-10-03",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "396c463dc1c0795c",
+      "title": "Swonger Says Trade Barriers Will Hurt Spirits Industry",
+      "url": "https://www.youtube.com/watch?v=S973sTPIAfY",
+      "source": "Bloomberg Television",
+      "sourceId": "bloomberg-video",
+      "type": "video",
+      "publishedAt": "2026-10-02T22:43:23.000Z",
+      "publishedDate": null,
+      "topics": [
+        "business"
+      ]
+    },
+    {
+      "id": "35dc664fcecacd9c",
+      "title": "Israeli military targets senior Hamas official in Gaza strike -- media",
+      "url": "https://english.news.cn/20261003/267577a686cf450ba167fc8ba02e3121/c.html",
+      "source": "Xinhua",
+      "sourceId": "xinhua-world",
+      "type": "article",
+      "publishedAt": null,
+      "publishedDate": "2026-10-03",
+      "topics": [
+        "conflict"
+      ]
+    },
+    {
+      "id": "4d7fd83eb729848b",
+      "title": "Urgent: DPRK conducts intermediate-range missile launching drill",
+      "url": "https://english.news.cn/20261003/60f33454380a478db89305c3dd0c26dd/c.html",
+      "source": "Xinhua",
+      "sourceId": "xinhua-world",
+      "type": "article",
+      "publishedAt": null,
+      "publishedDate": "2026-10-03",
+      "topics": [
+        "conflict"
+      ]
+    },
+    {
+      "id": "bdc2c5ecd0925b39",
+      "title": "Rep. Landsman: AI Czar Wouldn’t Provide Enough Oversight",
+      "url": "https://www.youtube.com/watch?v=GYlgSCCaazc",
+      "source": "Bloomberg Television",
+      "sourceId": "bloomberg-video",
+      "type": "video",
+      "publishedAt": "2026-10-02T22:36:20.000Z",
+      "publishedDate": null,
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "b90e0c8da34caa77",
+      "title": "Rediker: Powell Is a ‘Tempering Influence’ on Fed Board",
+      "url": "https://www.youtube.com/watch?v=PVK5ht42O_s",
+      "source": "Bloomberg Television",
+      "sourceId": "bloomberg-video",
+      "type": "video",
+      "publishedAt": "2026-10-02T22:32:43.000Z",
+      "publishedDate": null,
+      "topics": [
+        "business"
+      ]
+    },
+    {
+      "id": "d4333fe88c3ae9a9",
+      "title": "French media respond to M. Le Pen’s ‘Kevlar suit’ comments against investigative outlet",
+      "url": "https://www.france24.com/en/france/20261002-french-media-react-to-m-le-pen-s-kevlar-suit-comments-against-investigative-press-outlet",
+      "source": "France 24",
+      "sourceId": "france24",
+      "type": "article",
+      "publishedAt": "2026-10-02T21:37:11.000Z",
+      "publishedDate": null,
+      "topics": [
+        "business"
+      ]
+    },
+    {
+      "id": "7ca0de8fb2852ada",
+      "title": "Consumer Barometer, The Worst Career Advice, Soaring Student Loans",
+      "url": "https://www.youtube.com/watch?v=ODfFJBoa5NU",
+      "source": "Bloomberg Television",
+      "sourceId": "bloomberg-video",
+      "type": "video",
+      "publishedAt": "2026-10-02T21:00:10.000Z",
+      "publishedDate": null,
+      "topics": [
+        "business"
+      ]
+    },
+    {
+      "id": "c1af64eb04a0540d",
+      "title": "Ethiopian army pushes back Tigrayan rebels",
+      "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20261002-ethiopian-army-pushes-back-tigrayan-rebels",
+      "source": "France 24",
+      "sourceId": "france24",
+      "type": "article",
+      "publishedAt": "2026-10-02T20:46:00.000Z",
+      "publishedDate": null,
+      "topics": [
+        "conflict"
+      ]
+    },
+    {
+      "id": "52f45815957fe521",
+      "title": "Traders Waver on Fed Hike Bets After Jobs Report",
+      "url": "https://www.youtube.com/watch?v=6tEpqvxCfaM",
+      "source": "Bloomberg Television",
+      "sourceId": "bloomberg-video",
+      "type": "video",
+      "publishedAt": "2026-10-02T20:42:15.000Z",
+      "publishedDate": null,
+      "topics": [
+        "business"
+      ]
+    },
+    {
+      "id": "b37e394dbe9b5c42",
+      "title": "Treasury Yields Climb, Adding to Weekly Gains | Closing Bell",
+      "url": "https://www.youtube.com/watch?v=gJtXwIdH7-c",
+      "source": "Bloomberg Television",
+      "sourceId": "bloomberg-video",
+      "type": "video",
+      "publishedAt": "2026-10-02T20:39:18.000Z",
+      "publishedDate": null,
+      "topics": [
+        "business"
+      ]
+    },
+    {
+      "id": "5c58c2b7c5e19bfa",
+      "title": "Is a cooling jobs market enough to stop more Fed rate hikes? | Reuters World News",
+      "url": "https://www.youtube.com/watch?v=Be9d1nNHoEg",
+      "source": "Reuters",
+      "sourceId": "reuters-video",
+      "type": "video",
+      "publishedAt": "2026-10-02T20:25:13.000Z",
+      "publishedDate": null,
+      "topics": [
+        "business"
+      ]
+    },
+    {
+      "id": "3ac56fee874a3aa0",
+      "title": "FAA Says Boeing 737 Max Computer Glitch Is Not Safety Issue",
+      "url": "https://www.youtube.com/watch?v=VfPpLKAzcxk",
+      "source": "Bloomberg Television",
+      "sourceId": "bloomberg-video",
+      "type": "video",
+      "publishedAt": "2026-10-02T20:37:48.000Z",
+      "publishedDate": null,
+      "topics": [
+        "business"
+      ]
+    },
+    {
+      "id": "8f220679daf5c32f",
+      "title": "Why Robert Reich Is So Worried About Stagflation",
+      "url": "https://www.youtube.com/watch?v=oR6ReIC3WfM",
+      "source": "Bloomberg Television",
+      "sourceId": "bloomberg-video",
+      "type": "video",
+      "publishedAt": "2026-10-02T20:18:47.000Z",
+      "publishedDate": null,
+      "topics": [
+        "business"
+      ]
+    },
+    {
+      "id": "aeeee67f194b82a3",
+      "title": "On the run for 20 years, Ugandan warlord Kony still 'active' within the Lord's Resistance Army",
+      "url": "https://www.france24.com/en/africa/20261002-on-the-run-for-20-years-ugandan-warlord-kony-still-active-within-the-lord-s-resistance-army",
+      "source": "France 24",
+      "sourceId": "france24",
+      "type": "article",
+      "publishedAt": "2026-10-02T19:31:27.000Z",
+      "publishedDate": null,
+      "topics": [
+        "conflict"
+      ]
+    },
+    {
+      "id": "5862e4f90c48a8c7",
+      "title": "Powell Probe Isn't Being Reopened, Blanche Says",
+      "url": "https://www.youtube.com/watch?v=Kl_0C60reio",
+      "source": "Bloomberg Television",
+      "sourceId": "bloomberg-video",
+      "type": "video",
+      "publishedAt": "2026-10-02T20:06:42.000Z",
+      "publishedDate": null,
+      "topics": [
+        "business"
+      ]
+    },
+    {
+      "id": "763beec6967f0dda",
+      "title": "The Rundown: Streaming deals heat up, AI hits Hollywood",
+      "url": "https://www.youtube.com/shorts/y2w362mcC1o",
+      "source": "Bloomberg Television",
+      "sourceId": "bloomberg-video",
+      "type": "video",
+      "publishedAt": "2026-10-02T19:46:15.000Z",
+      "publishedDate": null,
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "ea6dd1dc40300800",
+      "title": "LIVE: Protests in Madrid as Spain faces more fury over housing after parliament rejects decree",
+      "url": "https://www.youtube.com/watch?v=5_ZVJwLex_w",
+      "source": "Reuters",
+      "sourceId": "reuters-video",
+      "type": "video",
+      "publishedAt": "2026-10-02T18:07:59.000Z",
+      "publishedDate": null,
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "0a159ccef6723d81",
+      "title": "'We have to close defence gaps urgently': EU Parliament Foreign Affairs Committee chief McAllister",
+      "url": "https://www.france24.com/en/tv-shows/talking-europe/20261002-we-have-to-close-defence-gaps-urgently-eu-parliament-foreign-affairs-committee-chief-mcallister",
+      "source": "France 24",
+      "sourceId": "france24",
+      "type": "article",
+      "publishedAt": "2026-10-02T15:57:55.000Z",
+      "publishedDate": null,
+      "topics": [
+        "conflict",
+        "politics"
+      ]
+    },
+    {
+      "id": "f124c72c5cdc9e53",
+      "title": "Spanish lawmakers vote down affordable housing bills in blow to Sanchez’s government",
+      "url": "https://www.france24.com/en/europe/20261002-spanish-lawmakers-vote-down-affordable-housing-bills-in-blow-to-sanchez-s-government",
+      "source": "France 24",
+      "sourceId": "france24",
+      "type": "article",
+      "publishedAt": "2026-10-02T15:12:47.000Z",
+      "publishedDate": null,
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "0acfb3e3c400ecf2",
+      "title": "EU welcomes G7 no-ban decision, says export curbs would damage trust",
+      "url": "https://english.news.cn/20261002/e2b9733e0f624418a94db7aabdcb634f/c.html",
+      "source": "Xinhua",
+      "sourceId": "xinhua-world",
+      "type": "article",
+      "publishedAt": null,
+      "publishedDate": "2026-10-02",
+      "topics": [
+        "business"
+      ]
+    }
+  ]
+}

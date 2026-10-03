@@ -1,0 +1,4 @@
+import {readFile,writeFile} from 'node:fs/promises';
+import {validItems} from '../public/lib.js';
+const base=process.env.PUBLISHED_URL;
+if(base){try{const url=new URL(`${base.replace(/\/$/,'')}/data/news.json`);if(url.protocol!=='https:')throw Error('Expected HTTPS');const r=await fetch(url,{signal:AbortSignal.timeout(12000),cache:'no-store'});if(!r.ok)throw Error(`HTTP ${r.status}`);const data=await r.json();const file=new URL('../public/data/news.json',import.meta.url);const local=JSON.parse(await readFile(file,'utf8'));if(Date.parse(data.generatedAt)>Date.parse(local.generatedAt||0)&&Array.isArray(data.sources)&&validItems(data.items).length){data.items=validItems(data.items);await writeFile(file,JSON.stringify(data,null,2)+'\n');console.log('Recovered the previous published edition for failure fallback.');}}catch(e){console.log(`No previous edition recovered (${e.message}); using the checked-in snapshot.`);}}

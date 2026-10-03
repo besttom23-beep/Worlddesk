@@ -54,4 +54,3 @@ To personalize the gift message, edit `.masthead-note` and the footer text in `p
 All linked articles, video thumbnails, videos, trademarks and course material belong to their publishers. This independent, noncommercial discovery website is not affiliated with them. It links to publishers rather than copying full articles or hosting their videos. Review feed use terms if expanding into a commercial or large-scale service.
 
 Design uses DM Sans and Instrument Serif from Google Fonts, with system-font fallbacks. No analytics or user accounts are included. Videos load through YouTube’s privacy-enhanced embed only after an explicit play action; thumbnail and font requests can still contact third parties.
-

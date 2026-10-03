@@ -1,0 +1,7 @@
+[
+  {"id":"reuters-video","name":"Reuters","kind":"atom","type":"video","url":"https://www.youtube.com/feeds/videos.xml?channel_id=UChqUTb7kYRX8-EiaN3XFrSQ","homepage":"https://www.youtube.com/@Reuters","fallbackTopic":"world"},
+  {"id":"bloomberg-video","name":"Bloomberg Television","kind":"atom","type":"video","url":"https://www.youtube.com/feeds/videos.xml?channel_id=UCIALMKvObZNtJ6AmdCLP7Lg","homepage":"https://www.youtube.com/@markets","fallbackTopic":"business"},
+  {"id":"xinhua-world","name":"Xinhua","kind":"xinhua-index","type":"article","url":"https://english.news.cn/world/index.htm","homepage":"https://english.news.cn/","fallbackTopic":"world"},
+  {"id":"france24","name":"France 24","kind":"rss","type":"article","url":"https://www.france24.com/en/rss","homepage":"https://www.france24.com/en/","fallbackTopic":"world"},
+  {"id":"aljazeera","name":"Al Jazeera","kind":"rss","type":"article","url":"https://www.aljazeera.com/xml/rss/all.xml","homepage":"https://www.aljazeera.com/","fallbackTopic":"world"}
+]

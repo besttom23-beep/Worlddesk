@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="An English-language desk for global news, remarkable conversations, and open university courses. Built for a curious mind.">
+  <meta name="theme-color" content="#111c25">
+  <meta name="referrer" content="strict-origin-when-cross-origin">
+  <title>The World Desk — News, ideas & perspective</title>
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='12' fill='%23111c25'/%3E%3Cpath d='M11 18l10 30 11-22 11 22 10-30' fill='none' stroke='%23c8ed9c' stroke-width='5'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="./styles.css">
+  <script type="module" src="./app.js"></script>
+</head>
+<body>
+  <a class="skip-link" href="#briefing">Skip to the briefing</a>
+  <div class="page-wrap">
+    <header>
+      <div class="edition-line"><span>AN OPEN WINDOW ON GLOBAL AFFAIRS</span><time id="edition-date">THE DAILY EDITION</time><span>ENGLISH EDITION</span></div>
+      <div class="masthead"><a href="./" aria-label="The World Desk home">The World Desk<span class="masthead-dot">.</span></a><div class="masthead-note">A gift for<br><em>a curious mind.</em></div></div>
+      <nav class="section-nav" aria-label="Sections"><a class="active" href="#briefing">The briefing</a><a href="#newsrooms">Newsrooms</a><a href="#conversations">Conversations</a><a href="#open-campus">Open campus</a><a href="#reading-room">The reading room</a><span class="nav-note">GOOD SOURCES. BIGGER PICTURE.</span></nav>
+    </header>
+
+    <main class="desk-layout">
+      <aside class="left-rail" aria-label="News and analysis resources">
+        <section id="newsrooms"><div class="section-heading"><span class="section-number">01</span><h2>The newsrooms</h2></div><p class="section-intro">Different vantage points.<br>Go straight to the source.</p><div id="outlet-list" class="resource-list"></div></section>
+        <section id="reading-room" class="rail-section"><div class="section-heading"><span class="section-number">04</span><h2>The reading room</h2></div><p class="section-intro">Go beyond the news cycle.</p><div id="journal-list" class="resource-list"></div></section>
+        <div class="editor-note"><span class="eyebrow">A NOTE ON PERSPECTIVE</span><p>No single newsroom sees the whole world. Read across regions, distinguish reporting from opinion, and follow the evidence.</p><a href="#source-notes">How this desk is curated</a></div>
+      </aside>
+
+      <section id="briefing" class="center-desk" aria-label="International news briefing">
+        <div class="briefing-heading"><div class="section-heading"><span class="briefing-mark" aria-hidden="true"></span><h1>The briefing</h1></div><span class="eyebrow">POLITICS · CONFLICT · AI · BUSINESS</span></div>
+        <div class="feed-toolbar"><p id="feed-status" role="status">Opening the latest saved edition…</p><button class="text-button" id="refresh-feed" type="button" title="Check for a newer published edition">Refresh</button></div>
+        <div id="feed-notice" class="notice" hidden></div>
+        <section class="lead-story" id="headline-carousel" aria-label="Rolling headlines" aria-roledescription="carousel">
+          <div class="lead-topline"><span class="eyebrow" id="lead-category">FROM THE GLOBAL DESK</span><span id="lead-counter" class="eyebrow"></span></div>
+          <div class="lead-content" id="lead-content"><h2>Your world, in perspective.</h2><p>Loading the latest published headlines.</p></div>
+          <div class="lead-bottom"><span class="lead-byline" id="lead-byline">Attributed reporting. Original sources.</span><div class="carousel-controls"><button id="previous-headline" type="button" aria-label="Previous headline">‹</button><button id="pause-headlines" type="button" aria-label="Pause rolling headlines">Ⅱ</button><button id="next-headline" type="button" aria-label="Next headline">›</button></div></div>
+          <div class="carousel-progress" aria-hidden="true"><span id="carousel-progress"></span></div>
+        </section>
+        <div class="news-filter" role="group" aria-label="Filter headlines by topic"><button type="button" class="selected" aria-pressed="true" data-topic="all">All stories</button><button type="button" aria-pressed="false" data-topic="politics">Politics</button><button type="button" aria-pressed="false" data-topic="conflict">Conflict</button><button type="button" aria-pressed="false" data-topic="ai">AI & tech</button><button type="button" aria-pressed="false" data-topic="business">Business</button></div>
+        <div class="wire-heading"><h2>On the wire</h2><span id="story-count" class="eyebrow"></span></div>
+        <div id="news-list" class="news-list" aria-live="polite"></div>
+        <button id="more-stories" class="more-button" type="button" hidden>More headlines</button>
+
+        <section class="featured-section" id="conversations"><div class="featured-heading"><div><span class="eyebrow">THE LONG VIEW</span><h2>In good company.</h2></div><span class="small-copy">Ideas from the people<br>shaping our world.</span></div><div id="interview-list" class="interview-grid"></div><article class="diplomacy-pick"><span class="eyebrow">POLITICS & DIPLOMACY · GZERO WORLD</span><h3><a href="https://www.youtube.com/watch?v=36wNibURU-w" target="_blank" rel="noopener noreferrer">António Guterres on global power, AI and a world in crisis</a></h3><p>Ian Bremmer speaks with the UN Secretary-General about international cooperation and the challenges ahead.</p><a href="https://www.youtube.com/watch?v=36wNibURU-w" target="_blank" rel="noopener noreferrer">Watch the full conversation</a></article></section>
+        <section class="source-notes" id="source-notes"><details><summary>Sources, access & how the briefing works <span aria-hidden="true">+</span></summary><div class="notes-content"><p>This is an independent, noncommercial reading desk. Headlines link to the original publishers; no full articles are copied. Topic labels are automatically assigned and may occasionally overlap.</p><p>The published briefing is refreshed by a GitHub workflow every six hours once hosting is enabled. This page checks for a newer edition every 15 minutes. “Refresh” checks the published file; it does not contact publishers directly.</p><p>Reuters and Bloomberg links lead to their public YouTube videos. Their article subscriptions are not included. Xinhua is China’s state news agency; DW and France 24 are public international broadcasters. Perspectives and editorial standards differ.</p><p>Listed videos, lectures and selected readings are intended for free access. Optional donations, paid certificates and publishers’ premium archives are excluded. YouTube, PBS and other services can restrict content by country, network, age or embedding settings; an original-source link is always available. A successful URL check cannot guarantee playback everywhere.</p><div id="source-health"></div></div></details></section>
+      </section>
+
+      <aside class="right-rail" aria-label="Interviews and open courses">
+        <section id="watch-listen"><div class="section-heading"><span class="section-number">02</span><h2>Watch & listen</h2></div><p class="section-intro">Long conversations.<br>Consequential ideas.</p><div id="channel-list" class="resource-list"></div></section>
+        <section class="campus-section" id="open-campus"><div class="section-heading"><span class="section-number">03</span><h2>Open campus</h2></div><p class="section-intro">A deeper understanding starts here.</p><div id="course-list"></div></section>
+      </aside>
+    </main>
+    <footer><div><span class="footer-brand">The World Desk.</span><p>For the pleasure of understanding a little more.</p></div><div class="footer-meta">INDEPENDENTLY CURATED · OPEN TO THE CURIOUS<br><span id="curation-date">Source selection reviewed October 2026</span></div></footer>
+  </div>
+  <dialog id="video-dialog" aria-labelledby="video-title"><div class="dialog-top"><h2 id="video-title">Watch the conversation</h2><button id="close-video" type="button" aria-label="Close video">×</button></div><div id="video-container"></div><p>Playback unavailable? <a id="original-video" target="_blank" rel="noopener noreferrer">Open on YouTube</a> <span aria-hidden="true">·</span> <a id="video-transcript" target="_blank" rel="noopener noreferrer">Episode & transcript</a></p><p class="video-privacy">YouTube loads only when you choose to play. Its privacy and regional availability rules apply.</p></dialog>
+  <noscript><div class="noscript-note">JavaScript is needed for the rolling briefing. Visit <a href="https://english.news.cn/world/index.htm">Xinhua World</a>, <a href="https://www.france24.com/en/">France 24</a>, or <a href="https://oyc.yale.edu/">Open Yale Courses</a> directly.</div></noscript>
+</body>
+</html>

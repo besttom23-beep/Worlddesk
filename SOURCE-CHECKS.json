@@ -1,0 +1,200 @@
+{
+  "checkedAt": "2026-10-03T12:17:15.979Z",
+  "limitation": "HTTP reachability and public video metadata only. Not a guarantee of regional playback, accessibility compliance, or continued free access.",
+  "results": [
+    {
+      "url": "https://english.news.cn/world/index.htm",
+      "status": 200,
+      "title": "World | English.news.cn",
+      "finalUrl": "https://english.news.cn/world/index.htm"
+    },
+    {
+      "url": "https://www.dw.com/en/top-stories/s-9097",
+      "error": "ECONNRESET"
+    },
+    {
+      "url": "https://www.youtube.com/@Reuters",
+      "status": 200,
+      "title": "Reuters - YouTube",
+      "finalUrl": "https://www.youtube.com/@Reuters"
+    },
+    {
+      "url": "https://www.youtube.com/@markets",
+      "status": 200,
+      "title": "Bloomberg Television - YouTube",
+      "finalUrl": "https://www.youtube.com/@markets"
+    },
+    {
+      "url": "https://www.youtube.com/@dwnews",
+      "status": 200,
+      "title": "DW News - YouTube",
+      "finalUrl": "https://www.youtube.com/@dwnews"
+    },
+    {
+      "url": "https://www.youtube.com/@AssociatedPress",
+      "status": 200,
+      "title": "Associated Press - YouTube",
+      "finalUrl": "https://www.youtube.com/@AssociatedPress"
+    },
+    {
+      "url": "https://www.youtube.com/@aljazeeraenglish",
+      "status": 200,
+      "title": "Al Jazeera English - YouTube",
+      "finalUrl": "https://www.youtube.com/@aljazeeraenglish"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "status": 200,
+      "title": "FRANCE 24 English - YouTube",
+      "finalUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg"
+    },
+    {
+      "url": "https://www.aljazeera.com/",
+      "status": 200,
+      "title": "Breaking News, World News and Video from Al Jazeera",
+      "finalUrl": "https://www.aljazeera.com/"
+    },
+    {
+      "url": "https://www.france24.com/en/",
+      "status": 200,
+      "title": "France 24 - International breaking news, top stories and headlines",
+      "finalUrl": "https://www.france24.com/en/"
+    },
+    {
+      "url": "https://www.youtube.com/@lexfridman",
+      "status": 200,
+      "title": "Lex Fridman - YouTube",
+      "finalUrl": "https://www.youtube.com/@lexfridman"
+    },
+    {
+      "url": "https://www.youtube.com/@googledeepmind",
+      "status": 200,
+      "title": "Google DeepMind - YouTube",
+      "finalUrl": "https://www.youtube.com/@googledeepmind"
+    },
+    {
+      "url": "https://www.youtube.com/@AmanpourandCompany",
+      "status": 200,
+      "title": "Amanpour and Company - YouTube",
+      "finalUrl": "https://www.youtube.com/@AmanpourandCompany"
+    },
+    {
+      "url": "https://lexfridman.com/podcast/",
+      "status": 200,
+      "title": "Lex Fridman Podcast - Lex Fridman",
+      "finalUrl": "https://lexfridman.com/podcast/"
+    },
+    {
+      "url": "https://www.gzeromedia.com/video/gzero-world-with-ian-bremmer/",
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "url": "https://www.journalofdemocracy.org/articles/free/",
+      "status": 200,
+      "title": "Free Articles | Journal of Democracy",
+      "finalUrl": "https://www.journalofdemocracy.org/articles/free/"
+    },
+    {
+      "url": "https://www.brookings.edu/",
+      "status": 200,
+      "title": "Brookings - Quality. Independence. Impact.",
+      "finalUrl": "https://www.brookings.edu/"
+    },
+    {
+      "url": "https://www.cfr.org/podcasts",
+      "status": 200,
+      "title": "Podcasts | Council on Foreign Relations",
+      "finalUrl": "https://www.cfr.org/podcasts"
+    },
+    {
+      "url": "https://cddrl.fsi.stanford.edu/lnc/moocs",
+      "status": 200,
+      "title": "Public Courses | FSI",
+      "finalUrl": "https://cddrl.fsi.stanford.edu/lnc/moocs"
+    },
+    {
+      "url": "https://www.chathamhouse.org/publications/the-world-today",
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "url": "https://ocw.mit.edu/courses/17-42-causes-and-prevention-of-war-spring-2018/",
+      "status": 200,
+      "title": "Causes and Prevention of War | Political Science | MIT OpenCourseWare",
+      "finalUrl": "https://ocw.mit.edu/courses/17-42-causes-and-prevention-of-war-spring-2018/"
+    },
+    {
+      "url": "https://oyc.yale.edu/history/hist-202",
+      "status": 200,
+      "title": "European Civilization, 1648-1945 | Open Yale Courses",
+      "finalUrl": "https://oyc.yale.edu/history/hist-202"
+    },
+    {
+      "url": "https://sandel.scholars.harvard.edu/justice",
+      "status": 200,
+      "title": "Justice | Michael J. Sandel",
+      "finalUrl": "https://sandel.scholars.harvard.edu/justice"
+    },
+    {
+      "url": "https://www.youtube.com/playlist?list=PLjSvbbhu6GB6dhJV_u4nCAJrfRh3amGq4",
+      "status": 200,
+      "title": "Solving Public Policy Problems - YouTube",
+      "finalUrl": "https://www.youtube.com/playlist?list=PLjSvbbhu6GB6dhJV_u4nCAJrfRh3amGq4"
+    },
+    {
+      "url": "https://oyc.yale.edu/political-science/plsc-114",
+      "status": 200,
+      "title": "Introduction to Political Philosophy | Open Yale Courses",
+      "finalUrl": "https://oyc.yale.edu/political-science/plsc-114"
+    },
+    {
+      "url": "https://ocw.mit.edu/courses/21h-009-the-world-1400-present-spring-2014/",
+      "status": 200,
+      "title": "The World: 1400-Present | History | MIT OpenCourseWare",
+      "finalUrl": "https://ocw.mit.edu/courses/21h-009-the-world-1400-present-spring-2014/"
+    },
+    {
+      "url": "https://www.youtube.com/playlist?list=PLjSvbbhu6GB7CCU04KrZTpujFGj8KZtMx",
+      "status": 200,
+      "title": "Lectures on Democracy, Development, and the Rule of Law - YouTube",
+      "finalUrl": "https://www.youtube.com/playlist?list=PLjSvbbhu6GB7CCU04KrZTpujFGj8KZtMx"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=vif8NQcjVf0",
+      "status": 200,
+      "title": "Jensen Huang: NVIDIA - The $4 Trillion Company &amp; the AI Revolution | Lex Fridman Podcast #494 - YouTube",
+      "finalUrl": "https://www.youtube.com/watch?v=vif8NQcjVf0"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=-HzgcbRXUK8",
+      "status": 200,
+      "title": "Demis Hassabis: Future of AI, Simulating Reality, Physics and Video Games | Lex Fridman Podcast #475 - YouTube",
+      "finalUrl": "https://www.youtube.com/watch?v=-HzgcbRXUK8"
+    },
+    {
+      "url": "https://lexfridman.com/jensen-huang/",
+      "status": 200,
+      "title": "#494 – Jensen Huang: NVIDIA - The $4 Trillion Company &amp; the AI Revolution | Lex Fridman Podcast",
+      "finalUrl": "https://lexfridman.com/jensen-huang/"
+    },
+    {
+      "url": "https://lexfridman.com/demis-hassabis-2/",
+      "status": 200,
+      "title": "#475 – Demis Hassabis: Future of AI, Simulating Reality, Physics and Video Games | Lex Fridman Podcast",
+      "finalUrl": "https://lexfridman.com/demis-hassabis-2/"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=vif8NQcjVf0",
+      "test": "YouTube oEmbed",
+      "status": 200,
+      "title": "Jensen Huang: NVIDIA - The $4 Trillion Company & the AI Revolution | Lex Fridman Podcast #494",
+      "provider": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=-HzgcbRXUK8",
+      "test": "YouTube oEmbed",
+      "status": 200,
+      "title": "Demis Hassabis: Future of AI, Simulating Reality, Physics and Video Games | Lex Fridman Podcast #475",
+      "provider": "YouTube"
+    }
+  ]
+}
